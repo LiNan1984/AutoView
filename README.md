@@ -1,27 +1,23 @@
-# 
-# 说明
+# 基于Python + Flask + PyEcharts +plotly的自动数据可视化平台。 
 
->  基于Python + Flask + PyEcharts +plotly实现的数据可视化平台，并包含数据分析基本图表的绘制。
-
-基于Python + Flask + PyEcharts +plotly的自动数据可视化平台。 
-
-> 该项目有三个目的：
+## 该项目有三个目的：
 > 1.指导数据分析初学者学习基本的pyecharts绘图，并展示到Flask开发的web平台上。 
 > 
 > 2.根据数据的变量类型和逻辑，指导数据分析初学者绘制该数据对应的图（如单定量-直方图） 
 > 
 > 3.根据用户上传数据变量的性质，单变量还是双变量，定性变量还是定量变量，自动进行数据可视化。
-> 
-> it is a data visualization platform based on Python + flask + pyechards + plot, and includes the drawing of basic charts for data analysis.
+
+Automatic data visualization platform based on Python + flask + pyecharts + plot.
 
 
 
-1. Automatically visualize data according to the nature of data variable, whether it is single variable or double variable, qualitative variable or quantitative variable.
+## The project has three purposes:
 
-
-
-2. Among single variables, qualitative single variables include column chart, pie chart and rose chart, and quantitative single variables include histogram. In multivariable, qualitative and quantitative variables draw box line diagram, quantitative and quantitative scatter diagram, area diagram and broken line diagram of quantitative and time variables.
-
+> 1. Guide beginners of data analysis to learn the basic pyechards drawing and display it on the web platform developed by flask.
+>
+> 2. According to the variable type and logic of the data, guide beginners of data analysis to draw the corresponding graph of the data (such as single quantitative histogram)
+>
+> 3. According to the nature of the data variable uploaded by the user, single variable or double variable, qualitative variable or quantitative variable, data visualization is automatically carried out.
 
 
 3. Purpose: it is used to guide beginners of data analysis to learn basic pyechards drawing and display it on the web platform developed by flask.
