@@ -1,4 +1,4 @@
-# 基于Python + Flask + PyEcharts +plotly的自动数据可视化平台。 
+# 基于Python + Flask + PyEcharts +plotly+seaborn 的自动数据可视化平台。 
 
 ## 该项目有三个目的：
 > 1.指导数据分析初学者学习基本的pyecharts绘图，并展示到Flask开发的web平台上。 
