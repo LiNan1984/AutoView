@@ -7,11 +7,11 @@
 
 > 该项目有三个目的：
 > 1.指导数据分析初学者学习基本的pyecharts绘图，并展示到Flask开发的web平台上。 
-
+> 
 > 2.根据数据的变量类型和逻辑，指导数据分析初学者绘制该数据对应的图（如单定量-直方图） 
-
+> 
 > 3.根据用户上传数据变量的性质，单变量还是双变量，定性变量还是定量变量，自动进行数据可视化。
-
+> 
 > it is a data visualization platform based on Python + flask + pyechards + plot, and includes the drawing of basic charts for data analysis.
 
 
