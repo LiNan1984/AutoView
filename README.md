@@ -20,8 +20,6 @@ Automatic data visualization platform based on Python + flask + pyecharts + plot
 > 3. According to the nature of the data variable uploaded by the user, single variable or double variable, qualitative variable or quantitative variable, data visualization is automatically carried out.
 
 
-3. Purpose: it is used to guide beginners of data analysis to learn basic pyechards drawing and display it on the web platform developed by flask.
-
 # 依赖库
 | Dependency | Version |
 | ------ |------|
