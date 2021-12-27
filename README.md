@@ -3,13 +3,12 @@
 
 >  基于Python + Flask + PyEcharts +plotly实现的数据可视化平台，并包含数据分析基本图表的绘制。
 
-1.根据数据变量的性质，是单变量还是双变量，定性变量还是定量变量，自动进行数据可视化。
+基于Python + Flask + PyEcharts +plotly的自动数据可视化平台。 
 
-2.单变量中，定性单变量包括柱形图、饼图、玫瑰图，定量单变量包括直方图。多变量中，定性和定量变量绘制箱线图，定量和定量绘制散点图，定量和时间变量的面积图和折线图。
-
-3.目的：用于指导数据分析初学者学习基本的pyecharts绘图，并展示到Flask开发的web平台上。
-
-
+该项目有三个目的：
+1.指导数据分析初学者学习基本的pyecharts绘图，并展示到Flask开发的web平台上。 
+2.根据数据的变量类型和逻辑，指导数据分析初学者绘制该数据对应的图（如单定量-直方图） 
+3.根据用户上传数据变量的性质，单变量还是双变量，定性变量还是定量变量，自动进行数据可视化。
 
 > it is a data visualization platform based on Python + flask + pyechards + plot, and includes the drawing of basic charts for data analysis.
 
